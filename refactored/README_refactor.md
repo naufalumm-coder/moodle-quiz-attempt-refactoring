@@ -1,6 +1,7 @@
 # Refactor: mod_quiz\quiz_attempt
 
 Tujuan refactoring ini adalah menaikkan Maintainability Index (MI) pada PhpMetrics dengan cara memecah `quiz_attempt` yang sangat besar menjadi beberapa trait kecil berbasis tanggung jawab.
+untuk refactoring part 1 adalah file pertama refacoring sebelum final
 
 ## Cara pakai
 1. Backup file asli `mod/quiz/classes/quiz_attempt.php`.
