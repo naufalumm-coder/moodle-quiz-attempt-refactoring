@@ -7,9 +7,7 @@ before-mi.png
 stage-1-mi.png
 stage-2-mi.png
 before-after-code.png
-php-l-validation.png
-quiz-functional-test.png
-```
+
 
 Suggested manuscript placement:
 
