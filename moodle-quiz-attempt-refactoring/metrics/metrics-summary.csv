@@ -1,4 +1,0 @@
-stage,maintainability_index,cyclomatic_complexity_main_file,loc_main_file,main_refactoring_technique,notes
-Before Refactoring,43.08,178,2049,Baseline,Initial PhpMetrics result for quiz_attempt.php
-After Stage 1,43.97,,,Guard Clause and Decompose Conditional,Fill CC and LOC from PhpMetrics stage 1 report
-After Stage 2,96.08,2,154,Extract Trait and Extract Method,Final PhpMetrics result for main refactored quiz_attempt.php
