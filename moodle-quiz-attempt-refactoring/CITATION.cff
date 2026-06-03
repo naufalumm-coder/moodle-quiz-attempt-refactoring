@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this refactoring artefact, please cite it as below."
+title: "Moodle quiz_attempt.php Refactoring Artefact for Maintainability Index Evaluation"
+authors:
+  - family-names: "Rainbird"
+    given-names: "Jonathan Paul"
+year: 2026
+repository-code: "https://github.com/naufalumm-coder/moodle-quiz-attempt-refactoring"
+license: "GPL-3.0-or-later"
+keywords:
+  - Moodle
+  - PhpMetrics
+  - Maintainability Index
+  - Refactoring
+  - PHP
+  - mod_quiz
+abstract: "Research artefact containing before-after source code and metric documentation for refactoring the Moodle mod_quiz quiz_attempt class."
